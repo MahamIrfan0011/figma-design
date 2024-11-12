@@ -108,7 +108,7 @@ export default function Home() {
           </p>
           <button className="bg-[rgba(79,156,249,1)] w-[171px] h-[63px] rounded-md flex items-center justify-center mt-8">
             <p className="text-[18px] font-medium leading-[23px] tracking-[-0.02em] text-white text-center">
-              Let's Go
+              Let&apos;s Go
             </p>
             <span className="text-white text-xl ml-2">→</span>
           </button>
@@ -146,7 +146,7 @@ export default function Home() {
                </p>
                <button className="bg-[rgba(79,156,249,1)] w-[171px] h-[63px] rounded-md flex items-center justify-center mt-2">
             <p className="text-[18px] font-medium leading-[23px] tracking-[-0.02em] text-white text-center">
-              Let's Go
+              Let&apos;s Go
             </p>
             <span className="text-white text-xl ml-2">→</span>
           </button>
